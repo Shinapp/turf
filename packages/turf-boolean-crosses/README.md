@@ -8,7 +8,7 @@ Boolean-Crosses returns True if the intersection results in a geometry whose dim
 the maximum dimension of the two source geometries and the intersection set is interior to
 both source geometries.
 
-Boolean-Crosses returns t (TRUE) for only multipoint/polygon, multipoint/linestring, linestring/linestring, linestring/polygon, and linestring/multipolygon comparisons.
+Boolean-Crosses returns t (TRUE) for only multipoint/polygon, multipoint/linestring, linestring/linestring, and linestring/polygon comparisons.
 
 **Parameters**
 
